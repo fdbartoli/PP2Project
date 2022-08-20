@@ -19,7 +19,7 @@
 <ul>
 <li><a href="https://github.com/01laura">01laura</a><br>
 <li><a href="https://github.com/ClauFernandez">ClauFernandez</a><br>
-<li><a href="https://github.https://github.com/Andres-ann/01laura">Andres-ann</a><br>
+<li><a href="https://github.https://github.com/Andres-ann/">Andres-ann</a><br>
 <li><a href="https://github.com/fdbartoli">fdbartoli</a><br>
 </ul>
 
