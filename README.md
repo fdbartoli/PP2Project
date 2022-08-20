@@ -10,6 +10,16 @@
 <li>ANGULAR
 </ul>
 
-Resources:
-<a href="">Data Base .BAK</a>
+<h3>Resources:</h3>
+<ul>
+<li><a href="">Data Base .BAK</a>
+</ul>
+
+<h3>Collaborators:</h3>
+<ul>
+<li><a href="https://github.com/01laura">01laura</a><br>
+<li><a href="https://github.com/ClauFernandez">ClauFernandez</a><br>
+<li><a href="https://github.https://github.com/Andres-ann/01laura">Andres-ann</a><br>
+<li><a href="https://github.com/fdbartoli">fdbartoli</a><br>
+</ul>
 
